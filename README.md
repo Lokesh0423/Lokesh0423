@@ -8,8 +8,8 @@
 - 🔧 5+ years experience in DevOps, Cloud Infrastructure & CI/CD
 - ☁️ Specialized in **Azure (AKS, DevOps, Functions)** and **AWS (EKS, Lambda, EC2)**
 - 🏗️ Building production-grade infrastructure with **Terraform & Helm**
-- 📍 Based in **Berlin, Germany** — open to Berlin-based & hybrid roles
-- 🎓 MSc IT Management — Berlin School of Business and Innovation (2024)
+- 📍 Based in **Berlin, Germany**  open to Berlin-based & hybrid roles
+- 🎓 MSc IT Management  Berlin School of Business and Innovation (2024)
 
 <br/>
 
