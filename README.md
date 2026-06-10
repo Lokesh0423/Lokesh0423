@@ -49,7 +49,7 @@
 | Project | Description | Stack |
 |---|---|---|
 | 🔷 [terraform-azure-infra](https://github.com/Lokesh0423/terraform-azure-infra) | Multi-region AKS infrastructure with Terraform | Terraform, Azure, AKS |
-| ⚙️ [ci-cd-pipeline-demo](https://github.com/Lokesh0423/ci-cd-pipeline-demo) | End-to-end CI/CD pipeline with GitHub Actions | GitHub Actions, Docker, SonarQube |
+| ⚙️ [azure-cicd-pipeline](https://github.com/Lokesh0423/ci-cd-pipeline-demo) | End-to-end CI/CD pipeline with GitHub Actions | GitHub Actions, Docker, SonarQube |
 | ☸️ [k8s-helm-charts](https://github.com/Lokesh0423/k8s-helm-charts) | Production-grade Kubernetes deployments | Kubernetes, Helm, ArgoCD |
 
 <br/>
