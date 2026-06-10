@@ -1,15 +1,13 @@
 <h1 align="center">Hi, I'm Lokesh Kumar Gaddala 👋</h1>
 <h3 align="center">DevOps & Cloud Engineer | Azure • AWS • Kubernetes | Berlin, Germany</h3>
-
 <br/>
 
 ## 🚀 About Me
-
 - 🔧 5+ years experience in DevOps, Cloud Infrastructure & CI/CD
 - ☁️ Specialized in **Azure (AKS, DevOps, Functions)** and **AWS (EKS, Lambda, EC2)**
 - 🏗️ Building production-grade infrastructure with **Terraform & Helm**
-- 📍 Based in **Berlin, Germany**  open to Berlin-based & hybrid roles
-- 🎓 MSc IT Management  Berlin School of Business and Innovation (2024)
+- 📍 Based in **Berlin, Germany**, open to Berlin-based & hybrid roles
+- 🎓 MSc Information Systems Management — Berlin School of Business and Innovation (2026)
 
 <br/>
 
@@ -49,12 +47,11 @@
 | Project | Description | Stack |
 |---|---|---|
 | 🔷 [terraform-azure-infra](https://github.com/Lokesh0423/terraform-azure-infra) | Multi-region AKS infrastructure with Terraform | Terraform, Azure, AKS |
-| ⚙️ [azure-cicd-pipeline](https://github.com/Lokesh0423/ci-cd-pipeline-demo) | End-to-end CI/CD pipeline with GitHub Actions | GitHub Actions, Docker, SonarQube |
+| ⚙️ [azure-cicd-pipeline](https://github.com/Lokesh0423/azure-cicd-pipeline) | Multi-stage Azure DevOps CI/CD pipeline with AKS deployment | Azure DevOps, Docker, AKS |
 | ☸️ [k8s-helm-charts](https://github.com/Lokesh0423/k8s-helm-charts) | Production-grade Kubernetes deployments | Kubernetes, Helm, ArgoCD |
 
 <br/>
 
 ## 📫 Connect With Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokesh-kumar-gaddala)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lokeshkumargaddala0423@gmail.com)
