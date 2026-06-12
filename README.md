@@ -48,7 +48,7 @@
 |---|---|---|
 | 🔷 [terraform-azure-infra](https://github.com/Lokesh0423/terraform-azure-infra) | Multi-region AKS infrastructure with Terraform | Terraform, Azure, AKS |
 | ⚙️ [azure-cicd-pipeline](https://github.com/Lokesh0423/azure-cicd-pipeline) | Multi-stage Azure DevOps CI/CD pipeline with AKS deployment | Azure DevOps, Docker, AKS |
-| ☸️ [k8s-helm-charts](https://github.com/Lokesh0423/k8s-helm-charts) | Production-grade Kubernetes deployments | Kubernetes, Helm, ArgoCD |
+
 
 <br/>
 
