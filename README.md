@@ -48,6 +48,7 @@
 |---|---|---|
 | 🔷 [terraform-azure-infra](https://github.com/Lokesh0423/terraform-azure-infra) | Multi-region AKS infrastructure with Terraform | Terraform, Azure, AKS |
 | ⚙️ [azure-cicd-pipeline](https://github.com/Lokesh0423/azure-cicd-pipeline) | Multi-stage Azure DevOps CI/CD pipeline with AKS deployment | Azure DevOps, Docker, AKS |
+|[nodejs-k8s-minikube-app](https://github.com/Lokesh0423/nodejs-k8s-minikube-app)Docker + K8s + CI/CD
 
 
 <br/>
