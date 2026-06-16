@@ -3,7 +3,6 @@
 <br/>
 
 ## 🚀 About Me
-
 - 🔧 5+ years experience in DevOps, Cloud Infrastructure & CI/CD
 - ☁️ Specialized in **Azure (AKS, DevOps, Functions)** and **AWS (EKS, Lambda, EC2)**
 - 🏗️ Building production-grade infrastructure with **Terraform & Helm**
@@ -22,6 +21,7 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
 
 **IaC & Automation**
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
@@ -35,10 +35,12 @@
 **Monitoring**
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F5A800?style=flat&logo=grafana&logoColor=white)
 
 **Scripting**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
 <br/>
 
@@ -46,13 +48,14 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| 🔷 [terraform-azure-infra](https://github.com/Lokesh0423/terraform-azure-infra) | Multi-region AKS infrastructure with Terraform | Terraform, Azure, AKS |
-| ⚙️ [azure-cicd-pipeline](https://github.com/Lokesh0423/azure-cicd-pipeline) | Multi-stage Azure DevOps CI/CD pipeline with AKS deployment | Azure DevOps, Docker, AKS |
-| 🐳 [nodejs-k8s-minikube-app](https://github.com/Lokesh0423/nodejs-k8s-minikube-app) | Node.js app on Kubernetes with Docker, Secrets, ConfigMaps and GitHub Actions CI/CD | Docker, Kubernetes, GitHub Actions |
+| 🔷 [terraform-azure-infra](https://github.com/Lokesh0423/terraform-azure-infra) | Production-grade AKS infrastructure with Terraform modules, VNet, and Azure Monitor | Terraform, Azure, AKS |
+| ⚙️ [azure-cicd-pipeline](https://github.com/Lokesh0423/azure-cicd-pipeline) | Multi-stage Azure DevOps CI/CD pipeline building Docker images, pushing to ACR, deploying to AKS | Azure DevOps, Docker, AKS |
+| ⛵ [k8s-helm-charts](https://github.com/Lokesh0423/k8s-helm-charts) | Multi-environment Helm charts for parameterized AKS deployments with staging and production values | Helm, Kubernetes, AKS |
+| 🐳 [nodejs-k8s-minikube-app](https://github.com/Lokesh0423/nodejs-k8s-minikube-app) | Node.js app on Kubernetes with Secrets, ConfigMaps, health probes, and GitHub Actions CI/CD | Docker, Kubernetes, GitHub Actions |
 
 <br/>
 
 ## 📫 Connect With Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokesh-kumar-gaddala)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lokeshkumargaddala0423@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Lokesh0423)
