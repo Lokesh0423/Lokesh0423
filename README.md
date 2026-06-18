@@ -2,7 +2,7 @@
 <h3 align="center">DevOps & Cloud Engineer | Azure • AWS • Kubernetes | Berlin, Germany</h3>
 <br/>
 
-## 🚀 About Me
+ About Me
 - 🔧 5+ years experience in DevOps, Cloud Infrastructure & CI/CD
 - ☁️ Specialized in **Azure (AKS, DevOps, Functions)** and **AWS (EKS, Lambda, EC2)**
 - 🏗️ Building production-grade infrastructure with **Terraform & Helm**
