@@ -48,6 +48,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
+| 🔒 [secure-gitops-platform](https://github.com/Lokesh0423/secure-gitops-platform) | Production-grade Internal Developer Platform on AKS with GitOps, DevSecOps, and full CI/CD pipeline | AKS, ArgoCD, Trivy, OPA, Terraform |
 | 🔷 [terraform-azure-infra](https://github.com/Lokesh0423/terraform-azure-infra) | Production-grade AKS infrastructure with Terraform modules, VNet, and Azure Monitor | Terraform, Azure, AKS |
 | ⚙️ [azure-cicd-pipeline](https://github.com/Lokesh0423/azure-cicd-pipeline) | Multi-stage Azure DevOps CI/CD pipeline building Docker images, pushing to ACR, deploying to AKS | Azure DevOps, Docker, AKS |
 | ⛵ [k8s-helm-charts](https://github.com/Lokesh0423/k8s-helm-charts) | Multi-environment Helm charts for parameterized AKS deployments with staging and production values | Helm, Kubernetes, AKS |
