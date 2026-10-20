@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <strong>DevOps & Cloud Engineer</strong> | Azure | Kubernetes | Docker | Terraform | CI/CD | GitOps
+  |<strong>DevOps & Cloud Engineer</strong> | Kubernetes | Docker | Terraform | CI/CD | GitOps | AWS | AZURE |
 </p>
 
 <p align="center">
