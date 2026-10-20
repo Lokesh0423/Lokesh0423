@@ -2,146 +2,149 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/DevOps-Cloud%20Engineer-0A66C2?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-AKS%20%7C%20Terraform%20%7C%20CI%2FCD-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-Docker%20%7C%20Helm-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20%7C%20Azure-Cloud%20Infrastructure-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-Docker%20%7C%20Terraform-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
 <p align="center">
-  |<strong>DevOps & Cloud Engineer</strong> | Kubernetes | Docker | Terraform | CI/CD | GitOps | AWS | AZURE |
+  <strong>DevOps & Cloud Engineer</strong> | AWS | Azure | Kubernetes | Docker | Terraform | CI/CD
 </p>
 
 <p align="center">
-  I build and automate cloud-native systems with a focus on reliable deployments, scalable infrastructure, and production-ready delivery pipelines.
+  I design and automate cloud-native systems across AWS and Azure with a focus on scalability, reliability, and secure delivery.
 </p>
 
 ---
 
 ## About Me
 
-I’m a DevOps and Cloud Engineer passionate about automating infrastructure, improving deployment workflows, and building resilient cloud environments.
+I’m a DevOps and Cloud Engineer passionate about building reliable cloud infrastructure, automating deployment workflows, and creating efficient CI/CD pipelines across multi-cloud environments.
 
-My work focuses on:
-- Infrastructure as Code with Terraform
+My focus areas include:
+- Infrastructure as Code using Terraform
 - Containerization with Docker
-- Kubernetes and AKS deployments
-- Azure DevOps and GitHub Actions CI/CD
-- Monitoring, health checks, and troubleshooting
-- Secure, reusable, and scalable DevOps patterns
+- Kubernetes and cloud-native deployments
+- CI/CD pipelines for automated software delivery
+- Azure and AWS cloud architecture
+- Monitoring, troubleshooting, and production-grade operations
 
 ---
 
 ## Core Skills
 
 ### Cloud & Infrastructure
+- AWS
 - Azure
-- AKS (Azure Kubernetes Service)
-- Azure Container Registry
-- Azure Monitor
-- Networking, VNet, Subnets, Load Balancing
+- VPC / Networking / Security Groups / VNets
+- IAM / RBAC / Access Control
+- EC2 / Azure Virtual Machines
+- EKS / AKS
+- Load Balancing
 - Terraform
 - Infrastructure as Code
 
 ### DevOps & Automation
-- CI/CD Pipelines
-- GitHub Actions
-- Azure DevOps Pipelines
-- Docker & Docker Compose
+- Docker and Docker Compose
 - Kubernetes
 - Helm
-- GitOps patterns
-- Bash / Shell scripting
+- GitHub Actions
+- Azure DevOps Pipelines
+- Bash / Shell Scripting
+- Git and Git workflows
 
 ### Monitoring & Troubleshooting
-- Pod and service health checks
-- Container logs and debugging
-- Resource monitoring
-- Deployment rollback and incident response
+- Logs and metrics analysis
+- Container debugging
+- Deployment failure investigation
+- Performance analysis
+- Service health checks
+- Restart and rollback strategies
 
 ### Security & Best Practices
 - Secrets management
-- RBAC / access control
-- Container security practices
-- DevSecOps mindset
+- Least privilege access
 - Secure deployment workflows
+- DevSecOps mindset
+- Cloud security essentials
 
 ---
 
 ## Featured Projects
 
 ### 1) Azure Terraform Infrastructure
-A production-grade Azure infrastructure project provisioning AKS, VNet, and monitoring resources with Terraform.
+Production-grade Azure infrastructure provisioning with Terraform across AKS, VNet, and monitoring components.
 
 - Repo: https://github.com/Lokesh0423/terraform-azure-infra
 - Tech: Terraform, Azure, AKS, Azure Monitor
 - Highlights:
   - VNet and subnet design
   - AKS cluster provisioning
-  - Dev / Prod environment structure
-  - Monitoring and alerting setup
+  - Monitoring and alerting
+  - Multi-environment setup
 
 ### 2) Azure CI/CD Pipeline
-A multi-stage Azure DevOps pipeline for deploying a Dockerized Node.js app to AKS with staging and production environments.
+A multi-stage pipeline that deploys a Dockerized application to AKS with staging and production environments.
 
 - Repo: https://github.com/Lokesh0423/azure-cicd-pipeline
 - Tech: Azure DevOps, Docker, AKS, ACR, Node.js
 - Highlights:
-  - Build → Staging → Production pipeline
+  - Build → Staging → Production flow
   - Container image build and push
-  - Kubernetes deployment automation
-  - Health checks and deployment strategy
+  - AKS deployment automation
+  - Health checks and production-style pipeline design
 
-### 3) Node.js App on Kubernetes
-A containerized Node.js app deployed to Kubernetes with Minikube and GitHub Actions CI/CD.
+### 3) Kubernetes Deployment Project
+A production-style Node.js application containerized with Docker and deployed on Kubernetes using Minikube.
 
 - Repo: https://github.com/Lokesh0423/nodejs-k8s-minikube-app
-- Tech: Node.js, Docker, Kubernetes, Minikube, GitHub Actions
+- Tech: Node.js, Docker, Kubernetes, GitHub Actions
 - Highlights:
-  - Dockerized app
-  - Kubernetes manifests
-  - Secrets management
-  - Health probes
-  - Deployment automation
+  - Containerized app deployment
+  - K8s manifests and services
+  - Kubernetes secrets
+  - Health probes and scaling readiness
 
-### 4) Secure GitOps Platform
-A production-grade GitOps platform using AKS, Helm, and ArgoCD-inspired delivery patterns with security focus.
+### 4) Helm Charts Repository
+Reusable Kubernetes Helm templates for parameterized deployment patterns.
+
+- Repo: https://github.com/Lokesh0423/k8s-helm-charts
+- Tech: Helm, Kubernetes
+- Highlights:
+  - Reusable deployment templates
+  - Configuration parameterization
+  - Cloud-native application packaging
+
+### 5) Secure GitOps Platform
+A secure GitOps-oriented platform with reusable Helm patterns and modern DevSecOps workflows.
 
 - Repo: https://github.com/Lokesh0423/secure-gitops-platform
 - Tech: AKS, Helm, GitOps, DevSecOps
 - Highlights:
-  - Parameterized Helm charts
-  - Reusable deployment templates
-  - Security-focused DevOps workflows
-
-### 5) Helm Chart Repository
-Reusable Kubernetes Helm charts for parameterized deployments.
-
-- Repo: https://github.com/Lokesh0423/k8s-helm-charts
-- Tech: Helm, Kubernetes, Go Templates
-- Highlights:
-  - Reusable manifests
-  - Environment parameterization
-  - Deployment templating
+  - Reusable platform patterns
+  - Security-oriented deployment workflows
+  - Production-style delivery model
 
 ---
 
 ## Current Focus
 
-I’m currently expanding my skills in:
-- GitOps and ArgoCD
-- Observability and monitoring
-- Advanced Kubernetes operations
-- DevSecOps and secure release pipelines
-- Production-grade cloud architecture
+I’m actively developing skills in:
+- AWS + Azure hybrid architecture
+- Terraform for multi-cloud provisioning
+- EKS and AKS operations
+- GitOps and modern deployment practices
+- Monitoring, service reliability, and rollback strategies
+- DevSecOps and cloud security automation
 
 ---
 
 ## GitHub Highlights
 
-- Azure DevOps pipeline automation
-- Terraform-based infrastructure provisioning
-- Kubernetes deployment workflows
-- Dockerized microservice patterns
-- Secure and repeatable DevOps practices
+- Multi-cloud cloud-native engineering
+- Terraform-based infrastructure automation
+- Docker + Kubernetes deployment workflows
+- CI/CD pipeline design
+- Production-style troubleshooting and environment automation
 
 ---
 
@@ -153,5 +156,5 @@ I’m currently expanding my skills in:
 ---
 
 <p align="center">
-  <em>Automating delivery. Building reliable systems. Shipping better cloud-native experiences.</em>
+  <em>Building resilient, automated, and secure cloud-native systems across AWS and Azure.</em>
 </p>
