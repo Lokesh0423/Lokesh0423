@@ -1,62 +1,157 @@
 <h1 align="center">Hi, I'm Lokesh Kumar Gaddala 👋</h1>
-<h3 align="center">DevOps & Cloud Engineer | Azure • AWS • Kubernetes | Berlin, Germany</h3>
-<br/>
 
- About Me
-- 🔧 4+ years experience in DevOps, Cloud Infrastructure & CI/CD
-- ☁️ Specialized in **Azure (AKS, DevOps, Functions)** and **AWS (EKS, Lambda, EC2)**
-- 🏗️ Building production-grade infrastructure with **Terraform & Helm**
-- 📍 Based in **Berlin, Germany**, open to Berlin-based & hybrid roles
-- 🎓 MSc Information Systems Management — Berlin School of Business and Innovation (2026)
+<p align="center">
+  <img src="https://img.shields.io/badge/DevOps-Cloud%20Engineer-0A66C2?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-AKS%20%7C%20Terraform%20%7C%20CI%2FCD-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-Docker%20%7C%20Helm-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</p>
 
-<br/>
+<p align="center">
+  <strong>DevOps & Cloud Engineer</strong> | Azure | Kubernetes | Docker | Terraform | CI/CD | GitOps
+</p>
 
-## 🛠️ Tech Stack
+<p align="center">
+  I build and automate cloud-native systems with a focus on reliable deployments, scalable infrastructure, and production-ready delivery pipelines.
+</p>
 
-**Cloud**
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+---
 
-**Containers & Orchestration**
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
+## About Me
 
-**IaC & Automation**
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+I’m a DevOps and Cloud Engineer passionate about automating infrastructure, improving deployment workflows, and building resilient cloud environments.
 
-**CI/CD**
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat&logo=azuredevops&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+My work focuses on:
+- Infrastructure as Code with Terraform
+- Containerization with Docker
+- Kubernetes and AKS deployments
+- Azure DevOps and GitHub Actions CI/CD
+- Monitoring, health checks, and troubleshooting
+- Secure, reusable, and scalable DevOps patterns
 
-**Monitoring**
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-F5A800?style=flat&logo=grafana&logoColor=white)
+---
 
-**Scripting**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+## Core Skills
 
-<br/>
+### Cloud & Infrastructure
+- Azure
+- AKS (Azure Kubernetes Service)
+- Azure Container Registry
+- Azure Monitor
+- Networking, VNet, Subnets, Load Balancing
+- Terraform
+- Infrastructure as Code
 
-## 📂 Featured Projects
+### DevOps & Automation
+- CI/CD Pipelines
+- GitHub Actions
+- Azure DevOps Pipelines
+- Docker & Docker Compose
+- Kubernetes
+- Helm
+- GitOps patterns
+- Bash / Shell scripting
 
-| Project | Description | Stack |
-|---|---|---|
-| 🔒 [secure-gitops-platform](https://github.com/Lokesh0423/secure-gitops-platform) | Production-grade Internal Developer Platform on AKS with GitOps, DevSecOps, and full CI/CD pipeline | AKS, ArgoCD, Trivy, OPA, Terraform |
-| 🔷 [terraform-azure-infra](https://github.com/Lokesh0423/terraform-azure-infra) | Production-grade AKS infrastructure with Terraform modules, VNet, and Azure Monitor | Terraform, Azure, AKS |
-| ⚙️ [azure-cicd-pipeline](https://github.com/Lokesh0423/azure-cicd-pipeline) | Multi-stage Azure DevOps CI/CD pipeline building Docker images, pushing to ACR, deploying to AKS | Azure DevOps, Docker, AKS |
-| ⛵ [k8s-helm-charts](https://github.com/Lokesh0423/k8s-helm-charts) | Multi-environment Helm charts for parameterized AKS deployments with staging and production values | Helm, Kubernetes, AKS |
-| 🐳 [nodejs-k8s-minikube-app](https://github.com/Lokesh0423/nodejs-k8s-minikube-app) | Node.js app on Kubernetes with Secrets, ConfigMaps, health probes, and GitHub Actions CI/CD | Docker, Kubernetes, GitHub Actions |
+### Monitoring & Troubleshooting
+- Pod and service health checks
+- Container logs and debugging
+- Resource monitoring
+- Deployment rollback and incident response
 
-<br/>
+### Security & Best Practices
+- Secrets management
+- RBAC / access control
+- Container security practices
+- DevSecOps mindset
+- Secure deployment workflows
 
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokesh-kumar-gaddala)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lokeshkumargaddala0423@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Lokesh0423)
+---
+
+## Featured Projects
+
+### 1) Azure Terraform Infrastructure
+A production-grade Azure infrastructure project provisioning AKS, VNet, and monitoring resources with Terraform.
+
+- Repo: https://github.com/Lokesh0423/terraform-azure-infra
+- Tech: Terraform, Azure, AKS, Azure Monitor
+- Highlights:
+  - VNet and subnet design
+  - AKS cluster provisioning
+  - Dev / Prod environment structure
+  - Monitoring and alerting setup
+
+### 2) Azure CI/CD Pipeline
+A multi-stage Azure DevOps pipeline for deploying a Dockerized Node.js app to AKS with staging and production environments.
+
+- Repo: https://github.com/Lokesh0423/azure-cicd-pipeline
+- Tech: Azure DevOps, Docker, AKS, ACR, Node.js
+- Highlights:
+  - Build → Staging → Production pipeline
+  - Container image build and push
+  - Kubernetes deployment automation
+  - Health checks and deployment strategy
+
+### 3) Node.js App on Kubernetes
+A containerized Node.js app deployed to Kubernetes with Minikube and GitHub Actions CI/CD.
+
+- Repo: https://github.com/Lokesh0423/nodejs-k8s-minikube-app
+- Tech: Node.js, Docker, Kubernetes, Minikube, GitHub Actions
+- Highlights:
+  - Dockerized app
+  - Kubernetes manifests
+  - Secrets management
+  - Health probes
+  - Deployment automation
+
+### 4) Secure GitOps Platform
+A production-grade GitOps platform using AKS, Helm, and ArgoCD-inspired delivery patterns with security focus.
+
+- Repo: https://github.com/Lokesh0423/secure-gitops-platform
+- Tech: AKS, Helm, GitOps, DevSecOps
+- Highlights:
+  - Parameterized Helm charts
+  - Reusable deployment templates
+  - Security-focused DevOps workflows
+
+### 5) Helm Chart Repository
+Reusable Kubernetes Helm charts for parameterized deployments.
+
+- Repo: https://github.com/Lokesh0423/k8s-helm-charts
+- Tech: Helm, Kubernetes, Go Templates
+- Highlights:
+  - Reusable manifests
+  - Environment parameterization
+  - Deployment templating
+
+---
+
+## Current Focus
+
+I’m currently expanding my skills in:
+- GitOps and ArgoCD
+- Observability and monitoring
+- Advanced Kubernetes operations
+- DevSecOps and secure release pipelines
+- Production-grade cloud architecture
+
+---
+
+## GitHub Highlights
+
+- Azure DevOps pipeline automation
+- Terraform-based infrastructure provisioning
+- Kubernetes deployment workflows
+- Dockerized microservice patterns
+- Secure and repeatable DevOps practices
+
+---
+
+## Connect
+
+- LinkedIn: https://linkedin.com/in/lokesh-kumar-gaddala
+- GitHub: https://github.com/Lokesh0423
+
+---
+
+<p align="center">
+  <em>Automating delivery. Building reliable systems. Shipping better cloud-native experiences.</em>
+</p>
