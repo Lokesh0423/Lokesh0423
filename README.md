@@ -71,6 +71,19 @@ My focus areas include:
 
 ## Featured Projects
 
+### Orders Service DevOps Troubleshooting Lab
+A local Flask and PostgreSQL lab covering container startup failures, persistent storage and database outage recovery.
+
+- Repo: https://github.com/Lokesh0423/devops-troubleshooting-lab
+- Tech: Python, Flask, Gunicorn, PostgreSQL, Docker Compose, Git
+- Highlights:
+  - Investigated a database outage where `/health` returned 200 while `/ready` and `/orders` returned 503.
+  - Restored the database and verified successful requests and the saved order without restarting the app.
+  - Added a Python-based app healthcheck; local checks showed both app and database healthy.
+  - Delivered the change through a feature branch, local tests, pull request and merge.
+- Healthcheck PR: https://github.com/Lokesh0423/devops-troubleshooting-lab/pull/1
+- Portfolio: https://lokesh0423.github.io/
+
 ### 1) Azure Terraform Infrastructure
 Production-grade Azure infrastructure provisioning with Terraform across AKS, VNet, and monitoring components.
 
